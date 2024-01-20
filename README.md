@@ -3,11 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sergei Kalye</h1>
-<h3 align="center">A python developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyanow&label=Profile%20views&color=0e75b6&style=flat" alt="reyanow" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyanow" alt="reyanow" /></a> </p>
+<h3 align="center">A Python Developer</h3>
 
 - 🔭 I’m currently working on [OCRHelper](https://github.com/ReYaNOW/OCRHelper)
 
@@ -18,6 +14,10 @@
 - 📫 How to reach me **reyangood@gmail.com**
 
 - 📄 Know about my experiences [https://cv.hexlet.io/ru/resumes/3473](https://cv.hexlet.io/ru/resumes/3473)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyanow&label=Profile%20views&color=0e75b6&style=flat" alt="reyanow" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyanow" alt="reyanow" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
