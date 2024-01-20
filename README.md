@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20ReYaN!&descAlign=50&descSize=30&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20ReYaN!&descAlign=50&descSize=30&animation=twinkling">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sergei Kalye</h1>
