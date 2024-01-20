@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=HI%20THERE!&desc=I%20am%20ReYaN&descAlignY=68&descSize=30&animation=fadeIn&reversal=false&textBg=false">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=HI%20THERE!&desc=I%20am%20ReYaN&descAlignY=60&descSize=20&animation=fadeIn&reversal=false&textBg=false&fontSize=25">
 </p>
 
 <!--
