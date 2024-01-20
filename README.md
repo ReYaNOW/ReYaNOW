@@ -22,7 +22,7 @@
 <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ReYaNOW&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ReYaNOW's github streak stats"> 
 <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReYaNOW&theme=github_dark&show_icons=true&bg_color=0111111"> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ReYaNOW&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
-<img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
+<img src="https://raw.githubusercontent.com/ReYaNOW/ReYaNOW/c0ac4bf73208c9dec6e0537346bd0db25c8ed115/snek.svg">
 <img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
 </p>
 
