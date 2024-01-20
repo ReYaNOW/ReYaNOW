@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sergei Kalye</h1>
-<h3 align="center">A Python Developer</h3>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!;I'm+a+Python+Developer!" alt="Typing SVG" /></a> </p>
 
 - 🔭 I’m currently working on [OCRHelper](https://github.com/ReYaNOW/OCRHelper)
 
