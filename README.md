@@ -29,6 +29,10 @@
 
 - <div><a href="https://github.com/ReYaNOW/python-project-83">Page Analyzer</a> - web app that analyzes specified pages for SEO suitability. When checking a web page using Page Analyzer, the application will extract several HTML tags that are important for SEO.</div>
 
+- <div><a href="https://github.com/ReYaNOW/python-project-50">Diff Calculator</a> - tool that determines the difference between two data structures. Supports json and yaml. A similar mechanism is, for example, used when outputting tests or automatically tracking changes in configuration files.</div>
+
+- <div><a href="https://github.com/ReYaNOW/python-project-49">Brain Games</a> - set of five console games built on the principle of popular mobile applications for brain training.</div>
+
 
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ReYaNOW&show_icons=true&theme=github_dark&&hide_border=true">
