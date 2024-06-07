@@ -41,6 +41,6 @@
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ReYaNOW&show_icons=true&theme=github_dark&&hide_border=true">
 <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ReYaNOW&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ReYaNOW's github streak stats"> 
-<img src="https://raw.githubusercontent.com/ReYaNOW/ReYaNOW/c0ac4bf73208c9dec6e0537346bd0db25c8ed115/snek.svg">
+<img src="https://raw.githubusercontent.com/ReYaNOW/ReYaNOW/c9cc1245f314957ea96ef4558c4c7b9455e80cd3/snek2.svg">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reyanow&label=Profile%20views&color=0e75b6&style=flat" alt="reyanow" /> </p>
 </p>
