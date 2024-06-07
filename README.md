@@ -5,9 +5,9 @@
 <h1 align="center">I'm Sergei Kalye</h1>
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!;I+am+a+Backend+Developer!" alt="Typing SVG" /></a> </p>
 
-- 🔭 I’m currently working on [OCRHelper](https://github.com/ReYaNOW/OCRHelper)
+- 🔭 I’m currently working on [Hexlet-friends](https://github.com/Hexlet/hexlet-friends)
 
-- 🌱 I’m currently learning **Django, FastAPI**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👯 I’m looking to collaborate on [OCRHelper](https://github.com/ReYaNOW/OCRHelper)
 
