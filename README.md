@@ -27,7 +27,7 @@
 
 - <div><a href="https://github.com/Hexlet/hexlet-friends">Hexlet-friends</a> - service to track contributions from members of the Hexlet community to the Hexlet open-source projects on GitHub.</div>
 
-- <div><a href="https://github.com/Hexlet/hexlet-friends">Task-Manager</a> -  task management system similar to Redmine. It allows you to set tasks, assign performers and change their statuses.</div>
+- <div><a href="https://github.com/ReYaNOW/Task-Manager">Task-Manager</a> -  task management system similar to Redmine. It allows you to set tasks, assign performers and change their statuses.</div>
 
 - <div><a href="https://github.com/ReYaNOW/OCRHelper">OCRHelper</a> - app for translating text from the screen using EasyOCR. As well search for the meaning of a word using ChatGPT or as simply copy it to the clipboard.</div>
 
